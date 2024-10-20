@@ -2,11 +2,11 @@
 # installing pyttsx3 
 # command: pip install pyttsx3
 # it provides text to speech
-import pyttsx3_module
+import pyttsx3
 import time
 
 # Initialize the pyttsx3 engine
-engine = pyttsx3_module.init()
+engine = pyttsx3.init()
 
 # Get available voices and print them
 voices = engine.getProperty('voices')
