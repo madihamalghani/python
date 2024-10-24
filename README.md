@@ -22,5 +22,11 @@ unordered, mutable, indexed, can not contain duplicate keys
 - The recursive function typically solves a problem by breaking it down into smaller sub-problems.
 - Recursion must have a base case to stop the recursion, or it will lead to an infinite loop.
 - Each recursive call reduces the size of the problem until it reaches the base case, at which point the function stops calling itself and returns a result.
-
+  
   [Document in easiest form and proper example](https://www.canva.com/design/DAGUecyPeCk/l-yX7S3C58n-mwQ0SlYsLA/view?utm_content=DAGUecyPeCk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## File Handlers:
+In Python, file handlers are objects used to interact with files. When you open a file, you create a file handler (or file object), which lets you perform operations like reading, writing, or appending data to the file.
+
+[File Handlers in Detail](https://www.canva.com/design/DAGUf2WfU6Q/CvKZ-c187C4iDDmq-5z4Vg/view?utm_content=DAGUf2WfU6Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
