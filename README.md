@@ -47,3 +47,8 @@ Inheritance is a feature in object-oriented programming that lets a new class (c
   #### 5.Hybrid Inheritance:
    - A mix of two or more types of inheritance, like combining multilevel and multiple inheritance.
    - Example: A class that inherits from both Parent and Grandparent classes through different paths.
+  #### 6.Super Method:
+ The super() method in Python is used to call methods from a parent (or superclass) in a child (or subclass). This is especially helpful when you override a method in the   child class but still want to access the original functionality from the parent class.
+ ###### How super() Works:
+   - Lets you access methods from a parent class.
+   - Is commonly used in the __init__() method to initialize the parent class’s properties in the child class.
