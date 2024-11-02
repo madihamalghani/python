@@ -52,3 +52,11 @@ Inheritance is a feature in object-oriented programming that lets a new class (c
  ###### How super() Works:
    - Lets you access methods from a parent class.
    - Is commonly used in the __init__() method to initialize the parent class’s properties in the child class.
+ #### classmethods:
+   Used for methods that work on the class itself. Useful for working with class-level data.
+ #### property:
+   Used to create getter and setter methods that act like attributes, making code more readable and encapsulating logic within a single attribute.
+ #### Operator Overloading:
+  Allows you to define or change the behavior of operators (like + and -) for instances of custom classes, making your classes easier to use and more intuitive.
+  
+[ Notes for classmethods, property, operator_overloading](https://www.canva.com/design/DAGVUGPPnBw/VCgxrhhzr9bgsqEynqNtfg/view?utm_content=DAGVUGPPnBw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
