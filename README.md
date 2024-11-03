@@ -60,3 +60,11 @@ Inheritance is a feature in object-oriented programming that lets a new class (c
   Allows you to define or change the behavior of operators (like + and -) for instances of custom classes, making your classes easier to use and more intuitive.
   
 [ Notes for classmethods, property, operator_overloading](https://www.canva.com/design/DAGVUGPPnBw/VCgxrhhzr9bgsqEynqNtfg/view?utm_content=DAGVUGPPnBw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## Advance Python Features:
+- Walrus
+- Match Case
+- Merge Dictionary
+- Exception Handling
+- Enumerate
+- List Comprehension  
+- [Their Notes](https://www.canva.com/design/DAGVVUazZ7M/OuvDPC3zpVllH99SUSgfWQ/view?utm_content=DAGVVUazZ7M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
